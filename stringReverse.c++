@@ -25,3 +25,6 @@ int main()
         cout << arr[index];
     }
 }
+
+// this method is more elaborate than the assignment file . this sam apprroach can be used to reverse integers by changing 
+// char arr[MAX_SIZE], next; to  int arr[MAX_SIZE], next;
